@@ -3,7 +3,7 @@ The answers to the questions in `Runoob`
 
 [Click here to view the questions on its original page](https://www.runoob.com/python/python-100-examples.html)
 
-+ [Question 1 to 5](#Question 1:)
++ <a href="#Question 1:">Question 1 to 5</a>
 + [Question 6 to 10]()
 + [Question 11 to 15]()
 
@@ -15,6 +15,6 @@ The answers to the questions in `Runoob`
 
 > **提示**：通过三层嵌套循环来实现
 
-**源码**：[Question1.py]([Python/Question1.py at master · asmld/Python (github.com)](https://github.com/asmld/Python/blob/master/Runoob/Question1.py))
+**源码**：[Question1.py](https://github.com/asmld/Python/blob/master/Runoob/Question1.py)
 
 **详解**：无
