@@ -46,7 +46,7 @@ data = pd.read_excel('./industry.xls')
 myList = []
 ```
 
-附：[表格预览](#1.表格)
+附：[表格预览](#1表格)
 
 ### 2.读取列名信息
 
@@ -54,7 +54,7 @@ myList = []
 col = data.columns
 ```
 
-附：[pandas获取列名的方法（网页）](https://blog.csdn.net/EWBA_GIS_RS_ER/article/details/90741671)、[列名预览](#2.列名预览)
+附：[pandas获取列名的方法（网页）](https://blog.csdn.net/EWBA_GIS_RS_ER/article/details/90741671)、[列名预览](#2列名预览)
 
 ### 3.遍历表格，找到符合要求的数据项
 
@@ -129,7 +129,7 @@ print(myList)
 [137 rows x 45 columns]
 ```
 
-（[返回](#1.读取表格)）
+（[返回](#1读取表格)）
 
 ### 2.列名预览
 
@@ -139,4 +139,4 @@ print(myList)
 ['序号', '所在行业', '第7题(保险业)', ..., '第7题(养殖业)', '第7题(自由职业)']
 ```
 
-（[返回](#2.读取列名信息)）
+（[返回](#2读取列名信息)）
