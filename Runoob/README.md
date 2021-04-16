@@ -72,7 +72,7 @@ The questions in `Runoob` and answers to them.
 
 1. 确定范围：
 
-![latex](https://latex.codecogs.com/svg.image?\begin{equation*}\begin{aligned}n&plus;100=a^2,n&plus;268=b^2\,\Rightarrow\,&space;b^2-a^2=168\\&b>a\,\Rightarrow&space;\,b\geq&space;a&plus;1\\\Rightarrow&space;\,168=b^2-a^2\geq(a&plus;1)^2-a^2=2a&plus;1\\\Rightarrow&space;\,a<84\end{aligned}\end{equation*})
+![latex](https://latex.codecogs.com/svg.image?\begin{equation*}\begin{aligned}&n&plus;100=a^2,n&plus;268=b^2\,\Rightarrow\,&space;b^2-a^2=168\\&b>a\,\Rightarrow&space;\,b\geq&space;a&plus;1\\\,\Rightarrow&space;\,&168=b^2-a^2\geq(a&plus;1)^2-a^2=2a&plus;1\\\,\Rightarrow&space;\,&a<84\end{aligned}\end{equation*})
 
 2. 只需通过循环求出所有满足要求的 `a`（![latex](https://latex.codecogs.com/svg.image?\inline&space;\sqrt{a^2&plus;168}\in&space;\mathbb{Z})） 
 3. ![latex](https://latex.codecogs.com/svg.image?\inline&space;a^2-100) 即为要求的 `n`
