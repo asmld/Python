@@ -1,27 +1,4 @@
-# 源码
-
-```python
-import pandas as pd
-
-
-def f(j):
-    s = col[j]
-    s = s[3:]
-    s = s.strip('()')
-    return s
-
-
-data = pd.read_excel('./industry.xls')
-col = data.columns
-myList = []
-for i in range(137):
-    for j in range(2, 45):
-        if data.iloc[i, j]:
-            myList.append(f(j))
-print(myList)
-
-```
-
+[_点我查看源码_](https://github.com/asmld/Python/blob/master/HomeWork/上机作业1/industry.py)
 # 详解
 
 ## 一、需求分析
