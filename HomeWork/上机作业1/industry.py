@@ -8,7 +8,7 @@ def f(j):
     return s
 
 
-data = pd.read_excel('./industry.xls')  # 此处为表格的地址
+data = pd.read_excel('./industry.xls')  # 此处为表格的路径
 print(data)
 col = data.columns
 print(col)
