@@ -72,7 +72,7 @@ The questions in `Runoob` and answers to them.
 
 1. 确定范围：
 
-	![latex](https://latex.codecogs.com/svg.image?\inline&space;n&plus;100=a^2,n&plus;268=b^2\Rightarrowb^2-a^2=168&space;)
+	![latex](https://latex.codecogs.com/svg.image?\inline&space;n&plus;100=a^2,n&plus;268=b^2\Rightarrow&space;b^2-a^2=168&space;)
 
 	![latex](https://latex.codecogs.com/svg.image?\inline&space;b>a\Rightarrow&space;b\geq&space;a&plus;1)
 
