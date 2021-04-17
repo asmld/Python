@@ -5,17 +5,17 @@ The questions in `Runoob` and answers to them.
 
 + [Question 1 to 5](#question-1) 
 
-[![`循环`](https://img.shields.io/badge/-%E5%BE%AA%E7%8E%AF-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
-[![`条件`](https://img.shields.io/badge/-%E6%9D%A1%E4%BB%B6-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
-[![`字符串`](https://img.shields.io/badge/-%E5%AD%97%E7%AC%A6%E4%B8%B2-red)](https://www.runoob.com/python3/python3-string.html)
-[![`数学`](https://img.shields.io/badge/-%E6%95%B0%E5%AD%A6-blue)](123)
+[![`循环`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
+[![`条件`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
+[![`字符串`](https://img.shields.io/badge/-String-red)](https://www.runoob.com/python3/python3-string.html)
+[![`数学`](https://img.shields.io/badge/-Math-blue)](123)
 
 ------
 
 ### Question 1:
 
-[![`循环`](https://img.shields.io/badge/-%E5%BE%AA%E7%8E%AF-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
-[![`条件`](https://img.shields.io/badge/-%E6%9D%A1%E4%BB%B6-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
+[![`循环`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
+[![`条件`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
 
 **题目描述**：有四个数字：1、2、3、4，能组成多少个互不相同且无重复数字的三位数？各是多少？
 
@@ -34,8 +34,8 @@ The questions in `Runoob` and answers to them.
 
 ### Question 2:
 
-[![`条件`](https://img.shields.io/badge/-%E6%9D%A1%E4%BB%B6-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
-[![`字符串`](https://img.shields.io/badge/-%E5%AD%97%E7%AC%A6%E4%B8%B2-red)](https://www.runoob.com/python3/python3-string.html)
+[![`条件`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
+[![`字符串`](https://img.shields.io/badge/-String-red)](https://www.runoob.com/python3/python3-string.html)
 
 **题目描述**：企业发放的奖金根据利润提成。利润低于或等于10万元时，奖金可提成10%；利润高于10万元，低于20万元时，低于10万元的部分按10%提成，高于10万元的部分可提成7.5%；利润20万到40万之间时，高于20万元的部分，可提成5%；40万到60万之间时，高于40万元的部分，可提成3%；60万到100万之间时，高于60万元的部分，可提成1.5%，高于100万元时，超过100万元的部分按1%提成。输入当月利润（万元），输出应发放奖金总数（万元，保留两位小数）。
 
@@ -54,7 +54,7 @@ The questions in `Runoob` and answers to them.
 
 ### Question 3:
 
-[![`数学`](https://img.shields.io/badge/-%E6%95%B0%E5%AD%A6-blue)](123)
+[![`数学`](https://img.shields.io/badge/-Math-blue)](123)
 
 **题目描述**：求所有的整数，满足加上100后是一个完全平方数，再加上168又是一个完全平方数。
 
@@ -80,6 +80,6 @@ The questions in `Runoob` and answers to them.
 
 	![latex](https://latex.codecogs.com/svg.image?\inline&space;a<84)
 
-2. 只需通过循环求出所有满足要求的 `a`（![latex](https://latex.codecogs.com/svg.image?\inline&space;\sqrt{a^2&plus;168}\in&space;\mathbb{Z})） 
+2. 只需通过循环求出所有满足![latex](https://latex.codecogs.com/svg.image?\inline&space;\sqrt{a^2&plus;168}\in&space;\mathbb{Z})的 `a`
 3. ![latex](https://latex.codecogs.com/svg.image?\inline&space;a^2-100) 即为要求的 `n`
 
