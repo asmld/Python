@@ -39,7 +39,7 @@ The questions in `Runoob` and answers to them.
 
 **题目描述**：企业发放的奖金根据利润提成。利润低于或等于10万元时，奖金可提成10%；利润高于10万元，低于20万元时，低于10万元的部分按10%提成，高于10万元的部分可提成7.5%；利润20万到40万之间时，高于20万元的部分，可提成5%；40万到60万之间时，高于40万元的部分，可提成3%；60万到100万之间时，高于60万元的部分，可提成1.5%，高于100万元时，超过100万元的部分按1%提成。输入当月利润（万元），输出应发放奖金总数（万元，保留两位小数）。
 
-> 提示：可通过 `if-elif-else` 语句实现
+> **提示**：可通过 `if-elif-else` 语句实现
 
 **输出样例**：
 
@@ -83,3 +83,27 @@ The questions in `Runoob` and answers to them.
 2. 只需通过循环求出所有满足![latex](https://latex.codecogs.com/svg.image?\inline&space;\sqrt{a^2&plus;168}\in&space;\mathbb{Z})的 `a`
 3. ![latex](https://latex.codecogs.com/svg.image?\inline&space;a^2-100) 即为要求的 `n`
 
+### Question 4:
+
+[![`条件`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
+[![`数学`](https://img.shields.io/badge/-Math-blue)](123)
+[![`字符串`](https://img.shields.io/badge/-String-red)](https://www.runoob.com/python3/python3-string.html)
+
+**题目描述**：输入某年某月某日，输出这一天是这一年的第几天。（输入格式：Y-M-D，如2021-4-18）
+
+> **提示**：分为平年和闰年两种情况
+
+**输出样例**：
+
+```
+请输入日期（如2021-4-18）：2021-1-23
+2021-1-23是2021年的第23天
+```
+
+**源码**：[Question4.py](https://github.com/asmld/Python/blob/master/Runoob/Question4.py)
+
+**分析**：
+
+1. 通过 `split` 方法从输入的字符串中获取到年、月、日，[*split方法详解*](https://www.runoob.com/python/att-string-split.html)
+2. 判断是闰年还是平年
+3. 根据月、日分析计算出天数
