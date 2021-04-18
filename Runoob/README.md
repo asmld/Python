@@ -9,6 +9,7 @@ The questions in `Runoob` and answers to them.
 [![`条件`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
 [![`字符串`](https://img.shields.io/badge/-String-red)](https://www.runoob.com/python3/python3-string.html)
 [![`数学`](https://img.shields.io/badge/-Math-blue)](123)
+[![`List`](https://img.shields.io/badge/-List-orange)](https://www.runoob.com/python3/python3-list.html)
 
 ------
 
@@ -104,6 +105,30 @@ The questions in `Runoob` and answers to them.
 
 **分析**：
 
-1. 通过 `split` 方法从输入的字符串中获取到年、月、日，[*split方法详解*](https://www.runoob.com/python/att-string-split.html)
+1. 通过 [`split`](https://www.runoob.com/python/att-string-split.html) 方法从输入的字符串中获取到年、月、日
 2. 判断是闰年还是平年
 3. 根据月、日分析计算出天数
+
+### Question 5:
+
+[![`循环`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
+[![`List`](https://img.shields.io/badge/-List-orange)](https://www.runoob.com/python3/python3-list.html)
+
+**题目描述**：先输入一个正整数 `n`，然后输入 `n` 个整数，从大到小输出这些数。
+
+> **提示**：把输入的数放进列表中，再使用 [`sort`](https://www.runoob.com/python3/python3-att-list-sort.html) 方法
+
+**输出样例**：
+
+```
+4
+请输入第1个数：6
+请输入第2个数：8
+请输入第3个数：3
+请输入第4个数：4
+8 6 4 3 
+```
+
+**源码**：[Question5.py](https://github.com/asmld/Python/blob/master/Runoob/Question5.py)
+
+**分析**：无
