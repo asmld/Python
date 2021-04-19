@@ -2,7 +2,7 @@ def check(s):
     s_list = s.split('-')
     if len(s_list) != 3:
         raise ValueError('Invalid date form "%s"' % s)
-    if not (float(s_list[0]) != int(s_list[0]) and float(s_list[1]) != int(s_list[1]) and float(s_list[2]) != int(s_list[2])):
+    if not (float(s_list[0]) == int(s_list[0]) and float(s_list[1]) == int(s_list[1]) and float(s_list[2]) == int(s_list[2])):
         raise ValueError('Invalid date form "%s"' % s)
     if not (0 < year and 0 < month < 13 and 0 < day <= day_list[month - 1]):
         raise ValueError('Invalid date form "%s"' % s)
