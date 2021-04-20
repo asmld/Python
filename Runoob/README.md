@@ -108,6 +108,7 @@ The questions in `Runoob` and answers to them.
 1. 通过 [`split`](https://www.runoob.com/python/att-string-split.html) 方法从输入的字符串中获取到年、月、日
 2. 判断是闰年还是平年
 3. 根据月、日分析计算出天数
+4. 利用[正则表达式](https://www.runoob.com/python/python-reg-expressions.html )判断输入的格式是否正确并进行[异常处理](https://www.runoob.com/python/python-exceptions.html )（进阶）
 
 ### Question 5:
 
