@@ -4,12 +4,14 @@ The questions in `Runoob` and answers to them.
 [Click here to view the questions on its original page](https://www.runoob.com/python/python-100-examples.html)
 
 + [Question 1 to 5](#question-1) 
++ [Question 6 to 10](#question-6) 
 
 [![`循环`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
 [![`条件`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
 [![`字符串`](https://img.shields.io/badge/-String-red)](https://www.runoob.com/python3/python3-string.html)
 [![`数学`](https://img.shields.io/badge/-Math-blue)](123)
 [![`List`](https://img.shields.io/badge/-List-orange)](https://www.runoob.com/python3/python3-list.html)
+[![`Function`](https://img.shields.io/badge/-Function-lightgrey)](https://www.runoob.com/python/python-functions.html)
 
 ------
 
@@ -131,5 +133,25 @@ The questions in `Runoob` and answers to them.
 ```
 
 **源码**：[Question5.py](https://github.com/asmld/Python/blob/master/Runoob/Question5.py)
+
+**分析**：无
+
+### Question 6：
+
+[![`循环`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
+[![`Function`](https://img.shields.io/badge/-Function-lightgrey)](https://www.runoob.com/python/python-functions.html)
+
+**题目描述**：输入 `n` ，输出[斐波拉契数列](https://baike.baidu.com/item/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97/99145)的第 `n` 项
+
+> **提示**：通过循环或者函数的递归实现
+
+**输出样例**：
+
+```
+请输入项数：10
+55
+```
+
+**源码**：[Question6.py](https://github.com/asmld/Python/blob/master/Runoob/Question6.py)
 
 **分析**：无
