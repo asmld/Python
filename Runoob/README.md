@@ -3,8 +3,8 @@ The questions in `Runoob` and answers to them.
 
 [Click here to view the questions on its original page](https://www.runoob.com/python/python-100-examples.html)
 
-+ [Question 1 to 5](#question-1) 
-+ [Question 6 to 10](#question-6) 
++ [Question 1 to 5](#question-1)
++ [Question 6 to 10](#question-6)
 
 [![`Loop`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
 [![`Condition`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
@@ -75,13 +75,13 @@ The questions in `Runoob` and answers to them.
 
 1. 确定范围：
 
-	![latex](https://latex.codecogs.com/svg.image?\inline&space;n&plus;100=a^2,n&plus;268=b^2\Rightarrow&space;b^2-a^2=168&space;)
+   ![latex](https://latex.codecogs.com/svg.image?\inline&space;n&plus;100=a^2,n&plus;268=b^2\Rightarrow&space;b^2-a^2=168&space;)
 
-	![latex](https://latex.codecogs.com/svg.image?\inline&space;b>a\Rightarrow&space;b\geq&space;a&plus;1)
+   ![latex](https://latex.codecogs.com/svg.image?\inline&space;b>a\Rightarrow&space;b\geq&space;a&plus;1)
 
-	![latex](https://latex.codecogs.com/svg.image?\inline&space;168=b^2-a^2\geq(a&plus;1)^2-a^2=2a&plus;1)
+   ![latex](https://latex.codecogs.com/svg.image?\inline&space;168=b^2-a^2\geq(a&plus;1)^2-a^2=2a&plus;1)
 
-	![latex](https://latex.codecogs.com/svg.image?\inline&space;a<84)
+   ![latex](https://latex.codecogs.com/svg.image?\inline&space;a<84)
 
 2. 只需通过循环求出所有满足![latex](https://latex.codecogs.com/svg.image?\inline&space;\sqrt{a^2&plus;168}\in&space;\mathbb{Z})的 `a`
 3. ![latex](https://latex.codecogs.com/svg.image?\inline&space;a^2-100) 即为要求的 `n`
