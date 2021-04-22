@@ -6,10 +6,10 @@ The questions in `Runoob` and answers to them.
 + [Question 1 to 5](#question-1) 
 + [Question 6 to 10](#question-6) 
 
-[![`循环`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
-[![`条件`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
-[![`字符串`](https://img.shields.io/badge/-String-red)](https://www.runoob.com/python3/python3-string.html)
-[![`数学`](https://img.shields.io/badge/-Math-blue)](123)
+[![`Loop`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
+[![`Condition`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
+[![`String`](https://img.shields.io/badge/-String-red)](https://www.runoob.com/python3/python3-string.html)
+[![`Math`](https://img.shields.io/badge/-Math-blue)](123)
 [![`List`](https://img.shields.io/badge/-List-orange)](https://www.runoob.com/python3/python3-list.html)
 [![`Function`](https://img.shields.io/badge/-Function-lightgrey)](https://www.runoob.com/python/python-functions.html)
 
@@ -17,8 +17,8 @@ The questions in `Runoob` and answers to them.
 
 ### Question 1:
 
-[![`循环`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
-[![`条件`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
+[![`Loop`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
+[![`Condition`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
 
 **题目描述**：有四个数字：1、2、3、4，能组成多少个互不相同且无重复数字的三位数？各是多少？
 
@@ -37,8 +37,8 @@ The questions in `Runoob` and answers to them.
 
 ### Question 2:
 
-[![`条件`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
-[![`字符串`](https://img.shields.io/badge/-String-red)](https://www.runoob.com/python3/python3-string.html)
+[![`Condition`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
+[![`String`](https://img.shields.io/badge/-String-red)](https://www.runoob.com/python3/python3-string.html)
 
 **题目描述**：企业发放的奖金根据利润提成。利润低于或等于10万元时，奖金可提成10%；利润高于10万元，低于20万元时，低于10万元的部分按10%提成，高于10万元的部分可提成7.5%；利润20万到40万之间时，高于20万元的部分，可提成5%；40万到60万之间时，高于40万元的部分，可提成3%；60万到100万之间时，高于60万元的部分，可提成1.5%，高于100万元时，超过100万元的部分按1%提成。输入当月利润（万元），输出应发放奖金总数（万元，保留两位小数）。
 
@@ -57,9 +57,9 @@ The questions in `Runoob` and answers to them.
 
 ### Question 3:
 
-[![`数学`](https://img.shields.io/badge/-Math-blue)](123)
+[![`Math`](https://img.shields.io/badge/-Math-blue)](123)
 
-**题目描述**：求所有的整数，满足加上100后是一个完全平方数，再加上168又是一个完全平方数。
+**题目描述**：求所有不小于-100的整数，满足加上100后是一个完全平方数，再加上168又是一个完全平方数。
 
 > 提示：通过数学推导确定数的范围
 
@@ -88,9 +88,9 @@ The questions in `Runoob` and answers to them.
 
 ### Question 4:
 
-[![`条件`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
-[![`数学`](https://img.shields.io/badge/-Math-blue)](123)
-[![`字符串`](https://img.shields.io/badge/-String-red)](https://www.runoob.com/python3/python3-string.html)
+[![`Condition`](https://img.shields.io/badge/-Condition-yellow)](https://www.runoob.com/python3/python3-conditional-statements.html)
+[![`Math`](https://img.shields.io/badge/-Math-blue)](123)
+[![`String`](https://img.shields.io/badge/-String-red)](https://www.runoob.com/python3/python3-string.html)
 
 **题目描述**：输入某年某月某日，输出这一天是这一年的第几天。（输入格式：Y-M-D，如2021-4-18）
 
@@ -114,7 +114,7 @@ The questions in `Runoob` and answers to them.
 
 ### Question 5:
 
-[![`循环`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
+[![`Loop`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
 [![`List`](https://img.shields.io/badge/-List-orange)](https://www.runoob.com/python3/python3-list.html)
 
 **题目描述**：先输入一个正整数 `n`，然后输入 `n` 个整数，从大到小输出这些数。
@@ -138,7 +138,7 @@ The questions in `Runoob` and answers to them.
 
 ### Question 6：
 
-[![`循环`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
+[![`Loop`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
 [![`Function`](https://img.shields.io/badge/-Function-lightgrey)](https://www.runoob.com/python/python-functions.html)
 
 **题目描述**：输入 `n` ，输出[斐波拉契数列](https://baike.baidu.com/item/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97/99145)的第 `n` 项
