@@ -155,3 +155,48 @@ The questions in `Runoob` and answers to them.
 **源码**：[Question6.py](https://github.com/asmld/Python/blob/master/Runoob/Question6.py)
 
 **分析**：无
+
+### Question 7：
+
+[![`List`](https://img.shields.io/badge/-List-orange)](https://www.runoob.com/python3/python3-list.html)
+
+**题目描述**：输入一个列表（各项之间以空格分隔），提取出列表中的第0,3,6……项并反向输出。
+
+> **提示**：无
+
+**输出样例**：
+
+```
+请输入列表：1 2 3 4 5 6 7 8 9
+['7', '4', '1']
+```
+
+**源码**：[Question7.py](https://github.com/asmld/Python/blob/master/Runoob/Question7.py)
+
+**分析**：无
+
+### Question 8：
+
+[![`Loop`](https://img.shields.io/badge/-Loop-brightgreen)](https://www.runoob.com/python3/python3-loop.html)
+
+**题目描述**：输出九九乘法表
+
+> **提示**：通过双层循环实现
+
+**输出样例**：
+
+```
+1X1=1  1X2=2  1X3=3  1X4=4  1X5=5  1X6=6  1X7=7  1X8=8  1X9=9  
+2X2=4  2X3=6  2X4=8  2X5=10 2X6=12 2X7=14 2X8=16 2X9=18 
+3X3=9  3X4=12 3X5=15 3X6=18 3X7=21 3X8=24 3X9=27 
+4X4=16 4X5=20 4X6=24 4X7=28 4X8=32 4X9=36 
+5X5=25 5X6=30 5X7=35 5X8=40 5X9=45 
+6X6=36 6X7=42 6X8=48 6X9=54 
+7X7=49 7X8=56 7X9=63 
+8X8=64 8X9=72 
+9X9=81
+```
+
+**源码**：[Question8.py](https://github.com/asmld/Python/blob/master/Runoob/Question8.py)
+
+**分析**：无
