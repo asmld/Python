@@ -200,3 +200,5 @@ The questions in `Runoob` and answers to them.
 **源码**：[Question8.py](https://github.com/asmld/Python/blob/master/Runoob/Question8.py)
 
 **分析**：无
+
+*更多内容见本人*[*博客*]([Python基础练习&解答 - CPY's Blog (cppyyy.com)](https://www.cppyyy.com/2021/05/13/Python基础练习-解答/))
