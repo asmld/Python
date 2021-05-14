@@ -201,4 +201,4 @@ The questions in `Runoob` and answers to them.
 
 **分析**：无
 
-*更多内容见本人*[*博客*]([Python基础练习&解答 - CPY's Blog (cppyyy.com)](https://www.cppyyy.com/2021/05/13/Python基础练习-解答/))
+*更多内容见本人*[*博客*](https://www.cppyyy.com/2021/05/13/Python基础练习-解答/)
